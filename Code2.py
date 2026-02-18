@@ -17,7 +17,3 @@ for i in range(1000):
         
         time.sleep_ms(5)
         
-in1.value(0)
-in2.value(0)
-in3.value(0)
-in4.value(0)
